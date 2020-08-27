@@ -1,5 +1,4 @@
-![Image of output 3](https://drive.google.com/file/d/1Almp-nNf6IyAjb23irBZn6ybRnWPBfJM/view?usp=sharing)
-
+<p align="center"><img src="https://drive.google.com/file/d/1Almp-nNf6IyAjb23irBZn6ybRnWPBfJM/view?usp=sharing" width="400"></p>
 # Laravel 7 Dropzone - Upload Multiple File
 
 Laravel 7 upload multiple file image using dropzone js. In this tutorial, you will learn how to upload multiple image file in laravel using dropzone js.
@@ -256,13 +255,9 @@ http://127.0.0.1:8000/dropzone/image
 
 -----------------------------------------------------------
 ### Finally, the laravel dropzone multiple image file upload project looks like:
-![Image of output 1](https://drive.google.com/file/d/1JTz-M2CQJPikqnQDPDpb2e5hqRtOLfkc/view?usp=sharing)
-
-![Image of output 2](https://drive.google.com/file/d/1K9_WnAJ-r00gFoYhVc5FZM8cWw02lW0Q/view?usp=sharing)
-
-![Image of output 3](https://drive.google.com/file/d/1aiWB09MOKwEYrFlHxW1UaCS4DFrqv7y_/view?usp=sharing)
-
-
+<img src="https://drive.google.com/file/d/1JTz-M2CQJPikqnQDPDpb2e5hqRtOLfkc/view?usp=sharing" width="100%">
+<img src="https://drive.google.com/file/d/1K9_WnAJ-r00gFoYhVc5FZM8cWw02lW0Q/view?usp=sharing" width="100%">
+<img src="https://drive.google.com/file/d/1aiWB09MOKwEYrFlHxW1UaCS4DFrqv7y_/view?usp=sharing" width="100%">
 -----------------------------
 # Thank you for read 
 ###A7med Qeshta.
