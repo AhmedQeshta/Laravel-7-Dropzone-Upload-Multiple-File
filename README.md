@@ -1,4 +1,4 @@
-![Image of output 3](header.jpg)
+![Image of output 3](https://drive.google.com/file/d/1Almp-nNf6IyAjb23irBZn6ybRnWPBfJM/view?usp=sharing)
 
 # Laravel 7 Dropzone - Upload Multiple File
 
@@ -256,11 +256,11 @@ http://127.0.0.1:8000/dropzone/image
 
 -----------------------------------------------------------
 ### Finally, the laravel dropzone multiple image file upload project looks like:
-![Image of output 1](imageback.png)
+![Image of output 1](https://drive.google.com/file/d/1JTz-M2CQJPikqnQDPDpb2e5hqRtOLfkc/view?usp=sharing)
 
-![Image of output 2](back2.png)
+![Image of output 2](https://drive.google.com/file/d/1K9_WnAJ-r00gFoYhVc5FZM8cWw02lW0Q/view?usp=sharing)
 
-![Image of output 3](back3.png)
+![Image of output 3](https://drive.google.com/file/d/1aiWB09MOKwEYrFlHxW1UaCS4DFrqv7y_/view?usp=sharing)
 
 
 -----------------------------
